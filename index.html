@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Api Dom</title>
+</head>
+<body>
+    <button id="registerUser" onclick="doggu()">
+        Send Req
+    </button>
+    <div id="content"></div>
+    <script>
+        const dat = {
+    name: "Ram",
+    email:"jdm@gmail.com",
+    phone:"3456785444",
+    password:"jmdjmd29",
+    token:'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUmFtIiwiZW1haWwiOiJqZG1AZ21haWwuY29tIiwicGhvbmUiOiIzNDU2Nzg1NDQ0IiwiSWQiOiI2MWQ0ODIzYWE0ZWU1NDc2YzVkZTA3MDAiLCJpYXQiOjE2NDEzMTY5ODUsImV4cCI6MTY0MTMyMDU4NX0.wnpm_lXL8hgc2k5rDgPyoGUpHbDpQJLGlqcxFNfGv-U'
+}
+        const doggu = async()=>{
+            const data = await fetch("http://localhost:6969/api/delete/61d4823aa4ee5476c5de0700",{method:"delete",headers:{'Content-Type':'application/json'},body:JSON.stringify(dat)}).then(result=>{
+                return result.json()
+            })
+            console.log(data);
+            document.getElementById("content").innerText=data.message;
+        }
+    </script>
+</body>
+</html>

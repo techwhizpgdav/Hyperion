@@ -1,0 +1,540 @@
+[{
+        "slug": "chanakya",
+        "subHead": "The Intellectual Society",
+        "pBold": "",
+        "paragraphs": [
+            { 
+                "normal": "Chanakya is the Intellectual Society of PGDAV College and is an umbrella society to four societies :" 
+            }, 
+            { 
+                "bold": "1) Buzzer", 
+                "normal": " The Quizzing Society."
+            },
+            { 
+                "bold": "2) Spectrum", 
+                "normal": "The Media Review and Anchoring Society." 
+            },
+            { 
+                "bold": "3) Qaafiya", 
+                "normal": "The Poetry and Creative Writing Society." 
+            },
+            { 
+                "bold": "4) Grey Matter", 
+                "normal": "The Debating society." 
+            },
+            {
+                "bold": "Padhantu",
+                "normal": " Book reading and review club."
+            }
+        ],
+        "links": [
+            {
+                "username": "/chanakya.pgdav", 
+                "link": "https://www.instagram.com/chanakya.pgdav/", 
+                "image": "logos/InstagramLogo.png" 
+            }
+        ],
+        "galleryImgs": ["chanakya/gallery/Gallery1.jpg", "chanakya/gallery/Gallery2.jpg", "chanakya/gallery/Gallery3.jpg", "chanakya/gallery/Gallery4.jpg", "chanakya/gallery/Gallery5.jpg", "chanakya/gallery/Gallery6.jpg", "chanakya/gallery/Gallery7.jpg"],
+        "president": "Aayush Agarwal",
+        "presidentPath": "/socities/chanakya/coreteam/President.jpg",
+        "logoLink": "logos/ChanakyaLogo.jpg",
+        "vp": "Prachi Mukhija",
+        "vpPath": "/socities/chanakya/coreteam/Vice_President.jpg",
+        "coordinator1": "Shivansh Joshi",
+        "coordinator1Path": "socities/chanakya/coreteam/buzzer_coord.jpg",
+        "degn_coord1" : "(Buzzer)",
+        "coordinator2": "Gaurika Wahal",
+        "coordinator2Path": "socities/chanakya/coreteam/spectrum_coord.jpg",
+        "degn_coord2" : "(Spectrum)",
+        "coordinator3": "Sanskriti",
+        "coordinator3Path": "socities/chanakya/coreteam/qaafiya_coord.jpg",
+        "degn_coord3" : "(Qaafiya)",
+        "coordinator4": "Pranav Pande",
+        "coordinator4Path": "socities/chanakya/coreteam/grey_coord.jpg",
+        "degn_coord4" : "(Grey Matter)",
+        "media_coordinator": "Nighat",
+        "media_coordinatorPath": "socities/chanakya/coreteam/media_coord.png",
+        "degn_media" : "(Media)",
+        "mentor1": "Mr. Jagannath Kashyap",
+        "mentor1Path": "socities/chanakya/mentor/mentor1.jpg",
+        "mentor2": "Mr. Rishikesh",
+        "mentor2Path": "socities/chanakya/mentor/mentor2.jpg"
+    }, 
+    {
+        "slug": "techwhiz",
+        "subHead": "The I.T. Society",
+        "pBold": "",
+        "paragraphs": [{
+            "normal": "TechWhiz - The I.T.Society kick started its journey in the year of 2012. It aims to provide the students of P.G.D.A.V.college irrespective of their courses a platform where they can showcase their technical knowledge and skill as well as gain new skills along with the experience of working in a team."
+        }, {
+            "normal": "Their main fields of interest includes Coding, Technical Quizzing, Web Development, Graphic Designing and Gaming "
+        }, {
+            "normal": "TechWhiz, the I.T. society of P.G.D.A.V. College, works as a tech support for not only Hyperion but also for the entire college. Starting from 2012, TechWhiz members have devoted themselves towards tech and have acheived several milestones over 10 years long the journey."
+        }],
+        "links": [{ "username": "/techwhizpgdav", "link": "https://instagram.com/techwhizpgdav?igshid=YmMyMTA2M2Y=", "image": "logos/InstagramLogo.png" }],
+        "logoLink": "logos/techWhizpng.png",
+        "galleryImgs": ["techwhiz/gallery/Gallery1.jpeg", "techwhiz/gallery/Gallery2.jpeg", "techwhiz/gallery/Gallery3.jpeg","techwhiz/gallery/Gallery4.jpeg","techwhiz/gallery/Gallery5.jpeg","techwhiz/gallery/Gallery6.jpeg"],
+        "president": "Prachi Tiwari",
+        "presidentPath": "/socities/techwhiz/coreteam/president.jpeg",
+        "vp": "Aryan Arora",
+        "vpPath": "socities/techwhiz/coreteam/vp.jpeg",
+        "secretary" : "Pushpender Kadian",
+        "secpath" : "socities/techwhiz/coreteam/sec.jpeg",
+        "pr" : "Vanshika Tiwari",
+        "prpath" : "socities/techwhiz/coreteam/pr.jpg" ,
+        "coordinator1": "Ritik Narayan",
+        "coordinator1Path": "socities/techwhiz/coreteam/coord1.jpeg",
+        "degn_coord1" : "(Coding)",
+        "coordinator2": "Anubhav Shukla",
+        "coordinator2Path": "socities/techwhiz/coreteam/coord2.jpg",
+        "degn_coord2" : "(Web Development)",
+        "coordinator3": "Sarthak Sharma",
+        "coordinator3Path": "socities/techwhiz/coreteam/coord3.jpeg",
+        "degn_coord3" : "(Quizzing)",
+        "coordinator4": "Sanjana",
+        "coordinator4Path": "socities/techwhiz/coreteam/coord4.jpeg",
+        "degn_coord4" : "(Gaming)",
+        "coordinator5": "Sukhmani Kaur",
+        "coordinator5Path": "socities/techwhiz/coreteam/coord5.jpg",
+        "degn_coord5" : "(Graphic Design)",
+        "mentor1": "Mr. Akshay Chamoli",
+        "mentor1Path": "socities/techwhiz/mentor/mentor1.jpeg",
+        "mentor2": "",
+        "mentor2Path": ""
+    },
+    {
+        "slug": "conundrum",
+        "subHead": "The Western Music Society",
+        "pBold": "",
+        "paragraphs": [
+            {
+                "normal": "Conundrum is the Western Music Society of our college. It comprises of talented and dedicated members who strive to serve you the best rendition of your favorite English songs. We work on all formats of music ranging from solo singing and duets to acapella and battle of bands. " 
+            },
+            { 
+                "normal": "We believe in involvement of the whole team in all kinds of possibilities to foster team bonding and most of all, have a great time enjoying music in its raw form." 
+            }
+        ],
+        "links": [
+            {
+                "username": "/conundrum_collective",
+                "link": "https://www.instagram.com/conundrum_collective/", 
+                "image": "logos/InstagramLogo.png" 
+            }, 
+            { 
+                "username": "/conundrumpgdav", 
+                "link": "https://www.facebook.com/conundrumpgdav", 
+                "image": "logos/FacebookLogo.png" 
+            }
+        ],
+        "galleryImgs": ["conundrum/gallery/Gallery1.jpg", "conundrum/gallery/Gallery2.jpg", "conundrum/gallery/Gallery3.jpg", "conundrum/gallery/Gallery4.jpg","conundrum/gallery/Gallery5.jpg","conundrum/gallery/Gallery6.jpg"],
+        "logoLink": "logos/ConundrumLogo.jpg",
+        "president": "Jai Mathur",
+        "presidentPath": "./socities/conundrum/coreteam/President.jpg",
+        "vp": "Harshini",
+        "vpPath": "./socities/conundrum/coreteam/vp.jpg",
+        "coordinator1": "Saksham Khosla",
+        "coordinator1Path": "./socities/conundrum/coreteam/coord.jpeg",
+        "coordinator2": "",
+        "coordinator2Path": "",
+        "coordinator3": "",
+        "coordinator3Path": "",
+        "coordinator4": "",
+        "coordinator5": "",
+        "coordinator5Path": "",
+        "mentor1": "Ms. RVS Chuimila",
+        "mentor1Path": "socities/conundrum/mentor/mentor1.jpeg",
+        "mentor2": "Mr. Lalit",
+        "mentor2Path": "socities/conundrum/mentor/mentor2.jpeg"
+    },
+    {
+        "slug": "diversity",
+        "subHead": "The Dance Society",
+        "pBold": "",
+        "paragraphs": [
+            {
+                "normal": "DIVERSITY has three societies under it: "
+            }, 
+            {
+                "bold": "SPUNK DANCE CREW:-", 
+                "normal": "Spunk is the Western dance society of PGDAV College(morning) (Delhi University)." 
+            },
+            { 
+                "normal": "Our society is popular for the street styles we perform such as hip hop, whacking, Afro, house, dancehall etc." 
+            }, 
+            { 
+                "normal": "In every fest season we leave our mark in the Delhi Dance Circuit. We have performed in a huge number of competitions all over india and made a reputed name in DU. Spunk bagged 1st position at G.J BAJAJ University for the second time. We also won 2nd prize at Chrust university and secured 3rd position at Galgotias university." 
+            }, 
+            { 
+                "normal": "Every year we organise our Western Group Dance Competition and Street Dance Competition in which all the Delhi University teams participate." 
+            },
+            { 
+                "bold": "JALSA BHANGRA CREW:-", 
+                "normal": "Bhangra is an energetic Punjabi dance, bhangra originated with Punjab farmers as a cultural and communal celebration."
+            }, 
+            {
+                "normal": "Today every occasion & wedding is incomplete without grooving bhangra on punjabi music."
+            },
+            { 
+                "normal" :"The bhangra crew of PGDAV. College is not just a society but a family, it brings together everyone to dance, enjoy and have the time of their lives. It is a place where people can be themselves and forget all their worries when the beats  roll on Dholki. It is a place to feel free, alive and to fall in love to the rythym of pure joy." 
+            }, 
+            { 
+                "bold": "NATRAJ:-", 
+                "normal": "“YATHO HASTA THATHO DRISHTI, YATHO DRISHTI THATHO MANAH, YATHO MANAH THATHO BHAAVA, YATHO BHAAVA THATHO RASA” - Where the hands are, there goes the sight; Where the sight is, there lies the mind; Where the mind fixes, there the feelings come and in accordance with feelings the enjoyment takes place." 
+            }, 
+            {
+                "normal": "The Indian Classical dance society of P.G.D.A.V College is one of the finest societies consisting of members who are well trained in their art forms like Bharatanatyam, Odissi and Kathak."
+            }, 
+            { 
+                "normal": "Natraj comprises different classical works towards bringing together the grace, charm and rigour of each style. For all the Natraj members dance is worship, dance is an art, dance is an expression of emotions, it is a symbol of happiness and more importantly dance is our constant source of motivation." 
+            }
+        ],
+        "links": [
+            { 
+                "username": "/spunkdancecrew", 
+                "link": "https://www.instagram.com/spunkdancecrew/", 
+                "image": "logos/InstagramLogo.png" 
+            }, 
+            { 
+                "username": "/jalsabhangracrew", 
+                "link": "https://www.instagram.com/jalsabhangracrew/", 
+                "image": "logos/InstagramLogo.png" 
+            },
+            { 
+                "username": "/natraj_pgdav", 
+                "link": "https://www.instagram.com/natraj_pgdav/", 
+                "image": "logos/InstagramLogo.png" 
+            },
+            { 
+                "username": "/diversitypgdav", 
+                "link": "https://www.facebook.com/profile.php?id=100086226211606", 
+                "image": "logos/FacebookLogo.png" 
+            }
+        ],
+        "galleryImgs": ["diversity/gallery/Gallery1.jpg", "diversity/gallery/Gallery2.jpg", "diversity/gallery/Gallery3.jpg","diversity/gallery/Gallery4.jpg","diversity/gallery/Gallery5.jpg","diversity/gallery/Gallery6.jpg","diversity/gallery/Gallery7.jpg","diversity/gallery/Gallery8.jpg","diversity/gallery/Gallery9.jpg","diversity/gallery/Gallery10.jpg","diversity/gallery/Gallery11.jpg","diversity/gallery/Gallery12.jpg"],
+        "logoLink": "logos/DiversityLogo.png",
+        "president": "Aashi Tyagi",
+        "presidentPath": "/socities/diversity/coreteam/Presidentt.jpeg",
+        "vp": "Sulvi Shraddha",
+        "vpPath": "socities/diversity/coreteam/vp.jpeg",
+        "coordinator1": "Chhavi",
+        "coordinator1Path": "socities/diversity/coreteam/spunk.png",
+        "degn_coord1" : "(Spunk)",
+        "coordinator2": "Urwashi",
+        "coordinator2Path": "socities/diversity/coreteam/jalsa.jpeg",
+        "degn_coord2" : "(Jalsa)",
+        "coordinator3": "Pihu",
+        "coordinator3Path": "socities/diversity/coreteam/natraj.jpeg",
+        "degn_coord3" : "(Natraj)",
+        "coordinator4": "",
+        "coordinator5": "",
+        "coordinator5Path": "",
+        "mentor1": "Mr. Nitin Kumar",
+        "mentor1Path": "socities/diversity/mentor/mentor1.jpeg",
+        "mentor2": "Ms. Komal",
+        "mentor2Path": "socities/diversity/mentor/mentor2.jpeg",
+        "mentor3": "Mr. Akshay Kumar",
+        "mentor3Path": "socities/diversity/mentor/mentor3.jpeg"
+    },
+    {
+        "slug": "impressions",
+        "subHead": "The Fine Arts Society",
+        "pBold": "The artist is not a different kind of person, but every person is a different kind of artist.",
+        "paragraphs": [{
+                "normal": "Art remains the flagship of Hyperion that embodies the spirit of our college."
+            },
+            {
+                "bold": "IMPRESSIONS- ",
+                "normal": "The fine arts society won the title of the Best society of PGDAV college of 2019 and is focused on helping students to develop their artistic and creative skills and gives them a platform to embrace their love for art without any objections or boundaries."
+            },
+            { 
+                "normal": " Impressions displayed its vibrant artistry throughout the academic year in various hues.They gave a tribute to Dr.Sarvapalli Radhakrishnan on the auspicious occasion of teachers ' day through a live art show. They displayed their rich artistic expressions and won prizes in IIT Bombay and other National level competitions. They also added much-needed charisma to NIRVANA 2020 with their wonderful exhibits.Even during pandemic crisis, society tried to put its best foot forward by organizing various online events and participated in many national level competitions." 
+            }
+        ],
+        "links": [
+            { 
+                "username": "/impressions.pgdav", 
+                "link": "https://www.instagram.com/impressions.pgdav/", 
+                "image": "logos/InstagramLogo.png" 
+            }, 
+            { 
+                "username": "/impressionstfas", 
+                "link": "https://www.facebook.com/impressionstfas/", 
+                "image": "logos/FacebookLogo.png" 
+            }
+        ],
+        "galleryImgs": ["impressions/gallery/Gallery1.jpg", "impressions/gallery/Gallery2.jpg", "impressions/gallery/Gallery3.jpg", "impressions/gallery/Gallery4.jpg", "impressions/gallery/Gallery5.jpg", "impressions/gallery/Gallery6.jpg", "impressions/gallery/Gallery7.jpg", "impressions/gallery/Gallery8.jpg"],
+        "logoLink": "logos/ImpressionsLogo.jpeg",
+        "president": "Manpreet Kaur",
+        "presidentPath": "/socities/impressions/coreteam/president.jpg",
+        "vp": "Swastika",
+        "vpPath": "/socities/impressions/coreteam/vp.jpg",
+        "coordinator1": "Shruti Ghumber",
+        "coordinator1Path": "/socities/impressions/coreteam/coord.jpg",
+        "coordinator2": "",
+        "coordinator2Path": "",
+        "coordinator3": "",
+        "coordinator3Path": "",
+        "coordinator4": "",
+        "coordinator5": "",
+        "coordinator5Path": "",
+        "mentor1": "Mr. Nitin Kumar",
+        "mentor1Path": "/socities/impressions/mentor/mentor1.jpg",
+        "mentor2": "",
+        "mentor2Path": ""
+    },
+    {
+        "slug": "iris",
+        "subHead": "The Film and Photography Society",
+        "pBold": "",
+        "paragraphs": [
+            {
+                "bold": " IRIS - ",
+                "normal": "The Film and Photography Society of PGDAV College, Delhi University functions as a unit which works in cultural and creative sectors of photography and filmmaking. The members of the society work as a team to watch and make films, discuss cinema, click photographs and also cover events held in the college."
+            }
+        ],
+        "links": [
+            { 
+                "username": "/iris_pgdav", 
+                "link": "https://www.instagram.com/iris_pgdav/", 
+                "image": "logos/InstagramLogo.png" 
+            }, 
+            { 
+                "username": "/IrisTeam", 
+                "link": "https://www.facebook.com/IrisTeam", 
+                "image": "logos/FacebookLogo.png" 
+            }
+        ],
+        "galleryImgs": ["iris/gallery/Gallery1.jpg", "iris/gallery/Gallery2.jpg", "iris/gallery/Gallery3.jpg", "iris/gallery/Gallery4.jpg"],
+        "logoLink": "logos/IrisLogo.jpg",
+        "president": "Chaitanya Chugh",
+        "presidentPath": "/socities/iris/coreteam/President.jpg",
+        "vp": "Ambika Awasthi",
+        "vpPath": "socities/iris/coreteam/vp.png",
+        "coordinator1": "Koshika Pandey",
+        "coordinator1Path": "socities/iris/coreteam/coord1.jpg",
+        "coordinator2": "",
+        "coordinator2Path": "",
+        "coordinator3": "",
+        "coordinator3Path": "",
+        "coordinator4": "",
+        "coordinator5": "",
+        "coordinator5Path": "",
+        "mentor1": "Dr. Ravindra Kumar Meena",
+        "mentor1Path": "socities/iris/mentor/mentor1.jpg",
+        "mentor2": "Mr. Akshay Chamoli",
+        "mentor2Path": "socities/iris/mentor/mentor2.jpg"
+    },
+    {
+        "slug": "navrang",
+        "subHead": "The Stage Play Society of PGDAV College (M)",
+        "pBold": "",
+        "paragraphs": [
+            {
+                "normal": "A remarkable and breathtaking theatrical union that boldly unites the professional stage where dreamers together approach the universe of theatre... NAVRANG resembling the 'nine emotions' is a place to explore the unexplored within ourselves. NAVRANG has time and again proved it's mettle and made its space amongst the best out there. Several of our productions have been a talking point in the DU Circuit and the Sahitya Kala Parishad. "
+            }
+        ],
+        "links": [
+            { 
+                "username": "/navrang.abhivyakti", 
+                "link": "https://www.instagram.com/navrang.abhivyakti/", 
+                "image": "logos/InstagramLogo.png" 
+            }, 
+            { 
+                "username": "/NAVRANGTHEATRESOC", 
+                "link": "https://www.facebook.com//NAVRANGTHEATRESOC/", 
+                "image": "logos/FacebookLogo.png" 
+            }
+        ],
+        "galleryImgs": ["navrang/gallery/Gallery1.jpg", "navrang/gallery/Gallery2.jpg", "navrang/gallery/Gallery3.jpg" ,"navrang/gallery/Gallery4.jpg","navrang/gallery/Gallery5.jpg","navrang/gallery/Gallery6.jpg","navrang/gallery/Gallery7.jpg","navrang/gallery/Gallery8.jpg"],
+        "logoLink": "logos/NavrangLogo.png",
+        "president": "Sarah Gupta",
+        "presidentPath": "/socities/navrang/coreteam/president.png",
+        "vp": "Baleshwar Kumar",
+        "vpPath": "socities/navrang/coreteam/vp.png",
+        "coordinator1": "Sushant",
+        "coordinator1Path": "socities/navrang/coreteam/coord1.png",
+        "coordinator2": "",
+        "coordinator2Path": "socities/navrang/coreteam/coord2.webp",
+        "coordinator3": "",
+        "coordinator3Path": "",
+        "coordinator4": "",
+        "coordinator5": "",
+        "coordinator5Path": "",
+        "mentor1": "Ms. Reshma",
+        "mentor1Path": "socities/navrang/mentor/mentor1.jpeg",
+        "mentor2": "",
+        "mentor2Path": ""
+    },
+    {
+        "slug": "raaga",
+        "subHead": "The Indian Music Society",
+        "pBold": "Music speaks for what cannot be expressed, an art form that needs no introduction.",
+        "paragraphs": [
+            {
+                "normal": "Raaga the Indian Music Society of PGDAV college is one of the very well-known societies of the college. Established in 2013, Raaga has reached many heights ever since. We focus mainly on nurturing young talents to develop curiosity and exposure in the field of Classical music. We've maintained a solid online and offline presence through creative reels, posts, and contributing to various college events. ."
+
+            },
+            { 
+                "normal": " Every year, during the fest season Raaga receives love and appreciation from various music experts for our bold and beautiful choices of Raags, and the way we justify them in our own unique way. From receiving comeback of the year to 1st, 2nd and 3rd positions in numerous choir, solo, and multitudes of different competitions, Raaga has come a long way." 
+            }
+        ],
+        "links": [
+            { 
+                "username": "/raaga.ims", 
+                "link": "https://www.instagram.com/raaga.ims/", 
+                "image": "logos/InstagramLogo.png" 
+            }
+        ],
+        "galleryImgs": ["raaga/gallery/Gallery1.jpg", "raaga/gallery/Gallery2.jpg", "raaga/gallery/Gallery3.jpg","raaga/gallery/Gallery4.jpg","raaga/gallery/Gallery5.jpg","raaga/gallery/Gallery6.jpg"],
+        "logoLink": "logos/RaagaLogo.jpg",
+        "president": "Priyam Tahabilder",
+        "presidentPath": "socities/raaga/coreteam/President.jpg",
+        "vp": "Bharat Tiwari",
+        "vpPath": "socities/raaga/coreteam/vp.jpeg",
+        "coordinator1": "Adyasha Paty",
+        "coordinator1Path": "socities/raaga/coreteam/coord.jpg",
+        "coordinator2": "",
+        "coordinator2Path": "",
+        "coordinator3": "",
+        "coordinator3Path": "",
+        "coordinator4": "",
+        "coordinator5": "",
+        "coordinator5Path": "",
+        "mentor1": "Mr. Harish Chandra",
+        "mentor1Path": "socities/raaga/mentor/mentor.jpg",
+        "mentor2": "",
+        "mentor2Path": ""
+    },
+    {
+        "slug": "rapbeats",
+        "subHead": "The Hip Hop Music Society",
+        "pBold": " The hip hop music society of PGDAV COLLEGE comprises mainly of three departments The MUSIC , BEATBOXING and MUSIC PRODUCTION.",
+        "paragraphs": [{
+                "normal": "Our society is not just constricted to only the rap genre of hip hop music . Every genre is best in itself and people doing any of it are welcomed."
+            }, {
+                "normal ": "This Society is a storehouse of learning from the best. Our society has won many competitions and the highlight is IIT BOMBAY [ASIA'S ONE OF THE LARGEST FEST] ."
+            },
+            { "normal": "If you have what it takes to learn and evolve , if u have that passion to do well and explore this side of yourself, if you too love the music like we do , then what's stopping you , hop on board and sail with us to the almighty destiny." }
+        ],
+        "links": [{ "username": "/theofficialrapbeats", "link": "https://www.instagram.com/theofficialrapbeats/", "image": "logos/InstagramLogo.png" }],
+        "galleryImgs": ["rapbeats/gallery/Gallery1.jpg", "rapbeats/gallery/Gallery2.jpg", "rapbeats/gallery/Gallery3.jpg","rapbeats/gallery/Gallery4.jpg","rapbeats/gallery/Gallery5.jpg","rapbeats/gallery/Gallery6.jpg"],
+        "logoLink": "logos/RapbeatsLogo.jpg",
+        "president": "Aditya Vaid",
+        "presidentPath": "/socities/rapbeats/coreteam/president.jpg",
+        "vp": "Manav Sharma",
+        "vpPath": "socities/rapbeats/coreteam/vp.jpg",
+        "coordinator1": "Kanav Thakur",
+        "coordinator1Path": "socities/rapbeats/coreteam/coord.jpg",
+        "coordinator2": "",
+        "coordinator2Path": "",
+        "coordinator3": "",
+        "coordinator3Path": "",
+        "coordinator4": "",
+        "coordinator5": "",
+        "coordinator5Path": "",
+        "mentor1": "Mrs. Mona Goel",
+        "mentor1Path": "socities/rapbeats/mentor/mentor.jpg",
+        "mentor2": "",
+        "mentor2Path": ""
+    },
+    {
+        "slug": "rudra",
+        "subHead": "The Street Play Society",
+        "pBold": "",
+        "paragraphs": [{
+                "normal": "A promising place for every Thespian"
+            }, {
+                "bold": "Rudra-The Street Play Society of PGDAV College has a legacy of its own",
+                "normal": "Rudra was founded in 2005 and continues to work in full swing till date.It has produced several plays on social issues like media literacy,prostitution.Rudra has performed and won at platforms like NSD,MoodI - The Cultural Fest of IIT Bombay and Manthan - The international street play festival by CBS "
+            }, {
+                "normal": "Rudra's glory goes beyond the Delhi University circuit. Its alumini have been successfully pursuing theatre, film making, acting direction and other professions that revolve around theatre."
+            },{
+                "normal": "Our notable Alumni are: "
+            }, {
+                "normal": "Vikram Singh: Founder of Dogtail films production"
+
+            },{
+                "normal": "Shubham Yadav : Co-founder at Dogtail films"
+            }, { 
+                "normal": "Aarushi Rawat: Bollywood actress" },
+            {
+                "normal": "Hemank Soni: Acclaimed theatre actor,"
+            },
+            {
+                "normal": "Nabin Adhikari: Percussionist"
+            }, {
+                "normal": "Siddharth Verma: Script writer and theatre artist in Mumbai"
+            }, {
+                "normal": "Amit Bhardwaj: Works at Marvel studios"
+            }, {
+                "normal": "Suryansh Saini: Assistant director at Savdhaan India and television actor"
+            }, {
+                "normal": "Satyam Shukla: Casting director and theatre actor"
+            }, { 
+                "normal": "Rudra provides its members an environment to learn, explore, experience and engage. It aims to entertain and aware people about the social issues as an effort to provide a perspective and bring a change." 
+            }
+        ],
+        "links": [
+            { 
+                "username": "/rudra_dramsoc", 
+                "link": "https://www.instagram.com/rudra_dramsoc/", 
+                "image": "logos/InstagramLogo.png" 
+            }, 
+            { 
+                "username": "/rudradrama", 
+                "link": "https://www.facebook.com/rudradrama/", 
+                "image": "logos/FacebookLogo.png" 
+            }
+        ],
+        "galleryImgs": ["rudra/gallery/Gallery1.jpg", "rudra/gallery/Gallery2.jpg", "rudra/gallery/Gallery3.jpg","rudra/gallery/Gallery4.jpg","rudra/gallery/Gallery5.jpg","rudra/gallery/Gallery6.jpg"],
+        "logoLink": "logos/RudraLogo.png",
+        "president": "Rhythm",
+        "presidentPath": "/socities/rudra/coreteam/president.png",
+        "vp": "Khushi garg",
+        "vpPath": "socities/rudra/coreteam/vp.png",
+        "coordinator1": "Atharv",
+        "coordinator1Path": "socities/rudra/coreteam/coord1.png",
+        "coordinator2": "Yash",
+        "coordinator2Path": "socities/rudra/coreteam/coord2.png",
+        "coordinator3": "",
+        "coordinator3Path": "",
+        "coordinator4": "",
+        "coordinator5": "",
+        "coordinator5Path": "",
+        "mentor1": "Mr. Manoj",
+        "mentor1Path": "socities/rudra/mentor/mentor.png",
+        "mentor2": "",
+        "mentor2Path": ""
+    },
+    {
+        "slug": "kaira",
+        "subHead": "The Fashion Society",
+        "pBold": "",
+        "paragraphs": [{
+            "normal": "The Fashion Society of  PGDAV College (M), constituted in 2022. The basic aim of this society is to encourage students' interests in fashion as well as to assist them to incorporate the same into their daily lives. We, at KAIRA, firmly believe that fashion is not all about donning stylish clothes, but it is about having a confident personality that can make anyone rock any ensemble. This society works towards breaking fashion stereotypes and enhancing the creativity, confidence, and personality of the students. It provides a platform for the students to exhibit their talents in a way that reflects both their inner and outer selves. KAIRA offers you various departments where the primary departments are modelling, makeup, photography, and fashion designing. So, if you are a fashion lover, and wish to seek knowledge of fashion and styling, KAIRA welcomes you with an open arm."
+        }],
+        "links": [{ "username": "/kaira_fashionsociety", "link": "https://www.instagram.com/kaira_fashionsociety/", "image": "logos/InstagramLogo.png" }],
+        "logoLink": "logos/kairapng.png",
+        "galleryImgs": ["kaira/gallery/Gallery1.jpg", "kaira/gallery/Gallery2.jpg", "kaira/gallery/Gallery3.jpg","kaira/gallery/Gallery4.jpg"],
+        "president": "Krishna Shukla",
+        "presidentPath": "/socities/kaira/coreteam/president.jpg",
+        "vp": "Hifza",
+        "vpPath": "socities/kaira/coreteam/vp.jpg",
+        "secretary":"Nimisha Bhardwaj",
+        "secpath" : "socities/kaira/coreteam/sec.jpg",
+        "coordinator1": "",
+        "coordinator1Path": "",
+        "coordinator2": "",
+        "coordinator2Path": "",
+        "coordinator3": "",
+        "coordinator3Path": "",
+        "coordinator4": "",
+        "coordinator4Path": "",
+        "coordinator5": "",
+        "coordinator5Path": "",
+        "mentor1": "Mr. Nitin",
+        "mentor1Path": "socities/kaira/mentor/mentor1.jpg",
+        "mentor2": "",
+        "mentor2Path": ""
+    }
+]

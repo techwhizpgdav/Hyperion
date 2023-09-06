@@ -1,0 +1,365 @@
+<!-- --------------------------Information Section------------------------------------------- -->
+  <section id="infoSection" class="clearFix">
+        <!-- Side Link Section -->
+        <section id="linksSection" class="clearFix">
+            <div class="tabContainers">
+                <div class="tab" id="Hyperion">
+                    <span>Cultural<br>Society</span>
+                    <a href="/">Hyperion</a>
+                </div>
+                <div class="tab" id="Chanakya">
+                    <span>Intellectual<br>Society</span>
+                    <a href="/chanakya#leftSection">Chanakya</a>
+                </div>
+                <div class="tab" id="Techwhiz">
+                    <span>I.T.<br>Society</span>
+                    <a href="/techwhiz#leftSection">Techwhiz</a>
+                </div>
+                <div class="tab" id="Conundrum">
+                    <span>Western Music<br>Society</span>
+                    <a href="/conundrum#leftSection">Conundrum</a>
+                </div>
+                <div class="tab" id="Diversity">
+                    <span>Dance<br>Society</span>
+                    <a href="/diversity#leftSection">Diversity</a>
+                </div>
+                <div class="tab" id="Impressions">
+                    <span>Fine Arts<br>Society</span>
+                <a href="/impressions#leftSection">Impressions</a>
+                </div>
+                <div class="tab" id="Iris">
+                    <span>Film and Photography<br>Society</span>
+                <a href="/iris#leftSection">Iris</a>
+                </div>
+                <div class="tab" id="Navrang">
+                    <span>Theatre<br>Society</span>                      
+                    <a href="/navrang#leftSection">Navrang</a>
+                </div>
+                <div class="tab" id="Raaga">
+                    <span>Indian Music<br>Society</span>
+                    <a href="/raaga#leftSection">Raaga</a>
+                </div>
+                <div class="tab" id="Rapbeats">
+                    <span>Hip Hop<br>Society</span>
+                    <a href="/rapbeats#leftSection">Rapbeats</a>
+                </div>
+                <div class="tab" id="Rudra">
+                    <span>Street Play<br>Society</span>
+                <a href="/rudra#leftSection">Rudra</a>
+                </div>
+                <div class="tab" id="Kaira">
+                    <span>Fashion<br>Society</span>
+                    <a href="/kaira#leftSection">Kaira</a>
+                </div>
+            </div>
+        </section>
+
+    <!-- --------------------------Information Section------------------------------------------- -->
+    <section id="infoSection" class="clearFix">
+       
+
+    <!-- Description, Core Team and Mentors Section -->
+        <section id="leftSection" class="clearFix">
+            <!-- Society Heading and Log -->
+            <div id="Introduction"class="headingLogo clearFix">
+                
+                <div class="logo1">
+                    {{#if data.logoLink}}
+                    <img src="{{data.logoLink}}">
+                    {{/if}}
+                </div>
+                
+                <div class="infoHeading">
+                    <h2>{{name}}</h2>
+                    <h3>{{data.subHead}}</h3>
+                </div>
+                <div class="logo2">
+                    <img src="logos/HyperionLogo.jpeg">
+                </div>
+            </div>
+
+            <!-- Society Introdution -->
+            <div class="introParagraph clearFix">
+                <p style="font-weight: bold;">
+                    {{data.pBold}}
+                </p>
+                    
+                    {{#each data.paragraphs}}
+                       <p style="font-weight: 900;">
+                       {{this.bold}}
+                       </p>
+                   <p>
+                       {{this.normal}}
+                   </p>
+                   {{/each}}
+                  
+            </div>
+
+            <!-- Social Media Section -->
+            <div class="followUsHeading clearFix">
+                <h3>Follow Us At:</h3>
+            </div>
+
+            <div class="mediaHeading clearFix">
+               {{#each data.links}}
+               <div class="mediaHandle">
+                    <a href="{{link}}">
+                        <img src="{{image}}">
+                        <span>{{username}}</span>
+                    </a>
+                </div>
+                   {{/each}}
+            </div>
+
+            <!-- -----------------Core Team Section------------ -->
+            <div id="CoreTeam" class="coreHeading clearFix">
+                <h3>Core Team</h3>
+            </div>
+            <div class="coreTeam clearFix">
+                {{#if data.president}}
+                <div class="president">
+                    <img src="{{data.presidentPath}}">
+                    <h3 class="name">{{data.president}}</h3>
+                    <h4 class="post">President</h4>
+                </div>
+                {{/if}}
+                {{#if data.vp}}
+                <div class="vpresident">
+                        <img src="{{data.vpPath}}">
+                        <h3 class="name">{{data.vp}}</h3>
+                        <h4 class="post">Vice-President</h4>
+                </div>
+                {{/if}}
+                {{#if data.secretary}}
+                <div class="coord3">
+                        <img src="{{data.secpath}}">
+                        <h3 class="name">{{data.secretary}}</h3>
+                        <h4 class="post">Secretary</h4>
+                </div>
+                {{/if}}
+                {{#if data.pr}}
+                <div class="coord4">
+                        <img src="{{data.prpath}}">
+                        <h3 class="name">{{data.pr}}</h3>
+                        <h4 class="post">PR Head</h4>
+                </div>
+                {{/if}}
+                {{#if data.coordinator1}}
+                 <div class="coord3">
+                        <img src="{{data.coordinator1Path}}">
+                        <h3 class="name">{{data.coordinator1}}</h3>
+                        <h4 class="post">Coordinator</h4>
+                        <h4 class="post">{{data.degn_coord1}}</h4>
+                    </div>
+                {{/if}}
+                {{#if data.coordinator2}}
+                    <div class="coord4">
+                        <img src="{{data.coordinator2Path}}">
+                        <h3 class="name">{{data.coordinator2}}</h3>
+                        <h4 class="post">Coordinator</h4>
+                        <h4 class="post">{{data.degn_coord2}}</h4>
+                    </div>
+                {{/if}}
+                {{#if data.coordinator3}}
+                <div class="coord3">
+                        <img src="{{data.coordinator3Path}}">
+                        <h3 class="name">{{data.coordinator3}}</h3>
+                        <h4 class="post">Coordinator</h4>
+                        <h4 class="post">{{data.degn_coord3}}</h4>
+                </div>
+                {{/if}}
+                {{#if data.coordinator4}}
+                 <div class="coord4">
+                    <img src="{{data.coordinator4Path}}">
+                        <h3 class="name">{{data.coordinator4}}</h3>
+                        <h4 class="post">Coordinator</h4>
+                        <h4 class="post">{{data.degn_coord4}}</h4> 
+                </div>
+                {{/if}}
+                {{#if data.coordinator5}}
+                 <div class="coord3">
+                    <img src="{{data.coordinator5Path}}">
+                        <h3 class="name">{{data.coordinator5}}</h3>
+                        <h4 class="post">Coordinator</h4>
+                        <h4 class="post">{{data.degn_coord5}}</h4> 
+                </div>
+                {{/if}}
+                {{#if data.media_coordinator}}
+                 <div class="coord3">
+                    <img src="{{data.media_coordinatorPath}}">
+                        <h3 class="name">{{data.media_coordinator}}</h3>
+                        <h4 class="post">Coordinator</h4>
+                        <h4 class="post">{{data.degn_media}}</h4> 
+                </div>
+                {{/if}}
+
+            </div>
+            <!-- -----------------Mentor Section------------ -->
+            <div id="Mentors" class="coreHeading clearFix">
+                <h3>Mentors</h3>
+            </div>
+            <div class="coreTeam clearFix">
+               {{#if data.mentor1}}
+                <div class="coord3">
+                        <img src="{{data.mentor1Path}}">
+                      
+                        <h3 class="name">{{data.mentor1}}</h3>
+                    
+                </div>
+                {{/if}}
+            {{#if data.mentor2}}
+                <div class="coord4">
+                        <img src="{{data.mentor2Path}}">
+                        <h3 class="name">{{data.mentor2}}</h3>
+                       <!-- <h4 class="post">Joint Secretary</h4>-->
+                </div>
+                {{/if}}
+                {{#if data.mentor3}}
+                <div class="coord3">
+                        <img src="{{data.mentor3Path}}">
+                        <h3 class="name">{{data.mentor3}}</h3>
+                       <!-- <h4 class="post">Joint Secretary</h4>-->
+                </div>
+                {{/if}}
+            </div>
+        </section>
+        <section id="rightSection" class="clearFix">
+            <div class="rightBox">
+                <div class="principalSection clearFix">
+                    <h3>Principal's Message</h3>
+                    <div class="principalImage">
+                        <img src="socities/Hyperion/principal.jpg">
+                    </div>
+                    <div class="principalMessage">
+                        <p>
+                        PGDAV college is one of the premiere institutes of Delhi University.
+                        As many of you must be knowing already, my principalship has just started 
+                        but the heritage of this esteemed position goes decades back.
+                        </p>
+                        <p >
+                        We are guided by the vision of Swami Dayanand Saraswati where culture and 
+                        discipline are given utmost importance. 
+                        </p>                      
+                        <p>
+                            <a href="principal.html">Read More</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="achievementsSection clearFix">
+                    <h3>Achievements</h3>
+                    <div class="achievementGallery">
+                        <div class="aSlide"><img src="./socities/hyperion/achievement/Achievements10.jpg"></div>
+                        <div class="aSlide"><img src="./socities/hyperion/achievement/Achievement8.jpg"></div>
+                        <div class="aSlide"><img src="./socities/hyperion/achievement/Achievements2.jpg"></div>
+                        <div class="aSlide"><img src="./socities/hyperion/achievement/Achievements5.jpg"></div>
+                        <div class="aSlide"><img src="./socities/hyperion/achievement/Achievement1.PNG"></div>
+                        <div class="aSlide"><img src="./socities/hyperion/achievement/Achievements6.jpg"></div>
+                           
+                        <a class="aPrev" onclick="plusAchieve(-1)">&#10094;</a>
+                        <a class="aNext" onclick="plusAchieve(1)">&#10095;</a>    
+                    </div>
+                    <h4>Achiever's Gallery</h4>
+                    <div class="achievementList">
+                        <ul>
+                        <marquee direction="up" onmouseover="this.stop()" onmouseout="this.start()">    
+                            <li>Chanakya: Drishti Verma was Runner-Up in Redstockings Ch</li>
+                            <li>Conundrum: Band won Third Prize in Battle of Bands, St. Stephens</li>
+                            <li>Diversity: Parth Matlani was the Winner of the Sync with Dance , Navprayas NGO</li>
+                            <li>Impressions: Priya Jha was the Winner of Floral Theme Online Painting Competition</li>
+                            <li>Iris: Dhriti Goyal got 1st position in Nazariya at Maitreyi College</li>
+                            <li>Navrang: Best Play(2nd) – AIIMS – “Tamasha”</li>
+                            <li>Raaga: Maharaja Agrasen college - 1st position</li>
+                            <li>Rapbeats: Secured 1st position in MI Got Talent (IIT Bombay)</li>                                <li>Rudra: won the "best actor" award at the Departmental Fest of IHE.</li>
+                            <li>TechWhiz: Prasoon Jain was the Winner of Coding Carnival, Ram Lal Anand College</li>
+                        </marquee>
+                        </ul>
+                        <a href="/achievements#AchievePage">View All</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </section>
+
+
+    <!-- -------------------------------Society Gallery Section-------------------------------- -->
+    <section id="societyGallerySection" class="clearFix">
+        <div class="societyGallery clearFix">
+           {{#each data.galleryImgs}}
+            <div class="societySlider fade"><img src="socities/{{this}}"></div> 
+     
+             {{/each}}
+            <a class="socPrev" onclick="plusSociety(-1)">&#10094;</a>
+            <a class="socNext" onclick="plusSociety(1)">&#10095;</a>
+        </div>
+    </section>
+  <!-- --------------------------Society Section--------------------------------------------- -->
+  <section id="societyLinks" class="clearFix">
+        <div class="heading">
+            <h3>Societies</h3>
+        </div>
+        <div class="societySection">
+            <a href="/chanakya#leftSection" class="societyColumn" id="chanakya">
+                <div class="societyLogo"><img src="logos/ChanakyaLogo.jpg"></div>
+                <h3>Chanakya</h3>
+                <h4 class="overlay">The </br>Intellectual</br> Society</h4>
+            </a>
+            <a href="/techwhiz#leftSection" class="societyColumn" id="techwhiz">
+                <div class="societyLogo"><img src="logos/TechwhizLogo.jpeg"></div>
+                <h3>Techwhiz</h3>
+                <h4 class="overlay">The</br> I.T. </br>Society</h4>
+            </a>
+            <a href="/conundrum#leftSection" class="societyColumn" id="conundrum">
+                <div class="societyLogo"><img src="logos/ConundrumLogo.jpg"></div>  
+                <h3>Conundrum</h3>
+                <h4 class="overlay">The</br> Western Music</br> Society</h4>                  
+            </a>
+            <a href="/diversity#leftSection" class="societyColumn" id="diversity">
+                <div class="societyLogo"><img src="logos/DiversityLogo.png"></div>
+                <h3>Diversity</h3>
+                <h4 class="overlay">The</br> Dance</br> Society</h4>
+            </a>
+            <a href="/impressions#leftSection" class="societyColumn" id="impressions">
+                <div class="societyLogo"><img src="logos/ImpressionsLogo.jpeg"></div>
+                <h3>Impressions</h3>
+                <h4 class="overlay">The </br>Fine Arts</br> Society</h4>
+            </a>
+            <a href="/iris#leftSection" class="societyColumn" id="iris">
+                <div class="societyLogo"><img src="logos/IrisLogoPng.png"></div>
+                <h3>Iris</h3>
+                <h4 class="overlay">The</br> Film and </br>Photography </br>Society</h4>
+            </a>
+            <a href="/navrang#leftSection" class="societyColumn" id="navrang">
+                <div class="societyLogo"><img src="logos/NavrangLogo.png"></div>
+                <h3>Navrang</h3>
+                <h4 class="overlay">The </br>Theatre </br>Society</h4>
+            </a>
+            <a href="/raaga#leftSection" class="societyColumn" id="raaga">
+                <div class="societyLogo"><img src="logos/RaagaLogo.jpg"></div>
+                <h3>Raaga</h3>
+                <h4 class="overlay">The</br> Indian Music </br>Society</h4>
+            </a>
+            <a href="/rapbeats#leftSection" class="societyColumn" id="rapbeats">
+                <div class="societyLogo"><img src="logos/RapbeatsLogo.jpg"></div>
+                <h3>Rapbeats</h3>
+                <h4 class="overlay">The </br>Hip Hop</br> Society</h4>
+            </a>
+            <a href="/rudra#leftSection" class="societyColumn" id="rudra">
+                <div class="societyLogo"><img src="logos/RudraLogo.png"></div>
+                <h3>Rudra</h3>
+                <h4 class="overlay">The </br>Street Play</br> Society</h4>
+            </a>
+            <a href="/kaira/#leftSection" class="societyColumn" id="kaira">
+                <div class="societyLogo"><img src="logos/kairapng.png"></div>
+                <h3>Kaira</h3>
+                <h4 class="overlay">The</br> Fashion </br>Society</h4>
+            </a>
+        </div>
+    </section>
+    <script>
+        const mento = document.querySelectorAll('img');
+        mento.forEach(val=>{
+            if(val.getAttribute("src") =="."){
+                val.style.display = "none";
+            }
+        })
+    </script>
