@@ -4,13 +4,13 @@ const imag = require('../assets/gallery.json');
 
 
 router.get('/',(req,res)=>{
-    console.log("kejfnekfjb");
+    // console.log("kejfnekfjb");
     galdata = imag.filter((gal)=>{
         return gal.slug==="All";
     });
-    console.log(galdata);
+    // console.log(galdata);
     res.render('gallery',{
-        layout:"navnSide",
+        layout:"gallery_layout",
         // gname:req.params.galName,
         imag:galdata[0]
     });
