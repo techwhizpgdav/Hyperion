@@ -1,6 +1,6 @@
 # Hyperion - Cultural Society Website
 
-![Hyperion Logo](https://pgdavhyperion.in/logos/HyperionLogo.jpeg)
+<img src="https://pgdavhyperion.in/logos/HyperionLogo.jpeg" alt="Hyperion Logo" width="100" height="100">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo.svg)](https://github.com/techwhizpgdav/Hyperion/stargazers)
